@@ -1,0 +1,1 @@
+alert(" hey user you looking nice...have a nice day..remember dont click the link --> click here dude  get some info im saying dont click "); 
